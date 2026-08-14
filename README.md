@@ -92,4 +92,24 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
