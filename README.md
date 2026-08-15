@@ -42,6 +42,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1037-valid-boomerang](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
 | ------- |
@@ -136,4 +137,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
