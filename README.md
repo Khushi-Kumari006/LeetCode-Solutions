@@ -53,6 +53,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0049-group-anagrams](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -175,4 +176,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
