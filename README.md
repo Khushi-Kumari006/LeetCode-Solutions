@@ -40,6 +40,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1037-valid-boomerang](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -69,11 +70,13 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -109,6 +112,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1037-valid-boomerang](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,4 +154,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
