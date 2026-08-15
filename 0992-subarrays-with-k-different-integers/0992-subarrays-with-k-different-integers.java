@@ -1,20 +1,25 @@
 class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
-        int res = 0, sz = nums.length;
-    int[] cnt = new int[sz + 1];
-    for (int l = 0, m = 0, r = 0; r < sz; ++r) {
-        if (++cnt[nums[r]] == 1)
-            if (--k < 0) {
-                cnt[nums[m++]] = 0;
-                l = m;
+         return (total(nums,k)-total(nums,k-1));
+    }
+    private int total(int[]nums,int k){
+          int l=0;
+        int r=0;
+        int count=0;
+        HashMap<Integer,Integer>map = new HashMap<>();
+        while(r<nums.length){
+            map.put(nums[r],map.getOrDefault(nums[r],0)+1);
+            while(map.size() > k){
+                 map.put(nums[l], map.get(nums[l]) - 1);
+            if(map.get(nums[l]) == 0){
+                map.remove(nums[l]);
+                
             }
-        if (k <= 0) {
-            while (cnt[nums[m]] > 1)
-                --cnt[nums[m++]];
-            res += m - l + 1;   
-        }
-    }    
-    return res;
+            l++;
+            }
+            count = count+(r-l+1);
+            r++;
+        }return count;
         
     }
 }
