@@ -1,19 +1,35 @@
 class Solution {
-    public int threeSumMulti(int[] A, int T) {
-        long[] nmap = new long[101];
+    public int threeSumMulti(int[] arr, int target) {
+        int n = arr.length;
+        Arrays.sort(arr);
         long ans = 0;
-        for (int num : A) nmap[num]++;
-        for (int k = 100; k >= 0; k--)
-            for (int j = k; j >= 0; j--) {
-                int i = T - k - j;
-                if (i > j || i < 0) continue;
-                long x = nmap[i], y = nmap[j], z = nmap[k], res = x * y * z;
-                if (res == 0) continue;
-                if (i == k) res = x * (x-1) * (x-2) / 6;
-                else if (i == j) res = x * (x-1) / 2 * z;
-                else if (j == k) res = x * y * (y-1) / 2;
-                ans += res;
+        for (int i = 0; i < n - 2; i++) {
+            int sum = target - arr[i];
+            int l = i + 1, r = n - 1;
+            while (l < r) {
+                if (arr[l] + arr[r] < sum) l++;
+                else if (arr[l] + arr[r] > sum) r--;
+                else {
+                    int count1 = 1, count2 = 1;
+                    if (arr[l] == arr[r]) {
+                        int len = r - l + 1;
+                        ans += (len * (len - 1) / 2);
+                        break;
+                    }
+                    while (l < r && arr[l] == arr[l + 1]) {
+                        count1++;
+                        l++;
+                    }
+                    while (r > l && arr[r] == arr[r - 1]) {
+                        count2++;
+                        r--;
+                    }
+                    ans += (count1 * count2);
+                    l++; r--;
+                }
             }
-        return (int)(ans % 1000000007);
+        }
+        return (int) (ans % 1000000007);
     }
 }
+
