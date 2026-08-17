@@ -48,6 +48,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1095-find-in-mountain-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -141,12 +142,14 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Brainteaser
 |  |
 | ------- |
@@ -155,6 +158,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
