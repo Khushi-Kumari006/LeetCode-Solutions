@@ -1,38 +1,43 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        int n = nums.length;
+        if (k == n) {
+            int maxValue = nums[0];
+            for (int x : nums) {
+                maxValue = Math.max(maxValue, x);
+            }
+            return maxValue;
         }
+        List<Integer> arr = new ArrayList<>();
         if (k == 1) {
-            int ans = -1;
-            for (int i = 0; i < nums.length; i++) {
-                if (map.get(nums[i]) == 1 && nums[i] > ans) {
-                    ans = nums[i];
+            for (int x : nums) {
+                int count = 0;
+                for (int y : nums) {
+                    if (x == y) {
+                        count++;
+                    }
+                }
+                if (count == 1) {
+                    arr.add(x);
                 }
             }
-            return ans;
-        }
-        else if (k == nums.length) {
-            int max = Integer.MIN_VALUE;
-            for (int i = 0; i < nums.length; i++) {
-                max = Math.max(nums[i], max);
+        } else {
+            int[] candidates = {nums[0], nums[n - 1]};
+            for (int x : candidates) {
+                int count = 0;
+                for (int y : nums) {
+                    if (x == y) {
+                        count++;
+                    }
+                }
+                if (count == 1) {
+                    arr.add(x);
+                }
             }
-            return max;
         }
-        else {
-            int first = nums[0];
-            int last = nums[nums.length - 1];
-            boolean first_count = map.get(first) == 1;
-            boolean second_count = map.get(last) == 1;
-            if (first_count && second_count)
-                return Math.max(first, last);
-                if (first_count)
-                return first;
-                if (second_count)
-                return last;
-                return -1;
+        if (arr.isEmpty()) {
+            return -1;
         }
+        return Collections.max(arr);
     }
-
 }
