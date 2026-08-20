@@ -41,6 +41,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -84,6 +85,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
@@ -158,6 +160,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -250,6 +253,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Minimax
 |  |
@@ -275,4 +279,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
