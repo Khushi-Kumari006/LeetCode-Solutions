@@ -55,6 +55,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -118,6 +119,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -139,6 +141,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 ## Counting
 |  |
 | ------- |
@@ -250,12 +253,14 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 ## Stack
 |  |
 | ------- |
