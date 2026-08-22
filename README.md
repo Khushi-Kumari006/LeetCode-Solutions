@@ -59,6 +59,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
+| [1534-count-good-triplets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1590-make-sum-divisible-by-p](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -347,4 +348,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
