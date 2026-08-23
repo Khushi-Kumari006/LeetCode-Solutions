@@ -44,6 +44,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -296,6 +297,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Minimax
 |  |
@@ -325,6 +327,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
