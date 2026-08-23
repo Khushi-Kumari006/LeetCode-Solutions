@@ -39,6 +39,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -275,6 +276,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
