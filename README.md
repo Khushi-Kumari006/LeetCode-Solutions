@@ -80,6 +80,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -139,6 +140,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -171,6 +173,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Queue
 |  |
 | ------- |
@@ -188,6 +191,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
 | ------- |
