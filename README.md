@@ -91,6 +91,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0076-minimum-window-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
@@ -121,6 +122,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0076-minimum-window-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
