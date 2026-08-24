@@ -1,13 +1,30 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-         String[] words = s.split(" ");
-    if (words.length != pattern.length())
-        return false;
-    Map index = new HashMap();
-    for (Integer i=0; i<words.length; ++i)
-        if (index.put(pattern.charAt(i), i) != index.put(words[i], i))
+        String[] words = s.split(" ");
+        if (pattern.length() != words.length) {
             return false;
-    return true;
-        
+        }
+        for (int i = 0; i < pattern.length(); i++) {
+            char ch = pattern.charAt(i);
+            String mappedWord = null;
+            for (int j = 0; j < i; j++) {
+                if (pattern.charAt(j) == ch) {
+                    mappedWord = words[j];
+                    break;
+                }
+            }
+            if (mappedWord != null) {
+                if (!mappedWord.equals(words[i])) {
+                    return false;
+                }
+            } else {
+                for (int j = 0; j < i; j++) {
+                    if (words[j].equals(words[i]) && pattern.charAt(j) != ch) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
     }
 }
