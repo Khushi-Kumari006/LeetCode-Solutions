@@ -119,6 +119,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0327-count-of-range-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -348,6 +350,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Minimax
 |  |
@@ -425,6 +428,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Design
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Binary Indexed Tree
 |  |
