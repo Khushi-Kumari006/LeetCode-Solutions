@@ -1,13 +1,33 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
-        int sum = 0;
-	for (int num: nums) sum += num;
-    int maxLength = -1, currSum = 0;
-	for (int l=0, r=0; r<nums.length; r++) {
-		currSum += nums[r];
-		while (l <= r && currSum > sum - x) currSum -= nums[l++];
-		if (currSum == sum - x) maxLength = Math.max(maxLength, r-l+1);
-	}
-    return maxLength == -1 ? -1 : nums.length - maxLength;
+        int target = 0;
+        for (int num : nums) {
+            target += num;
+        }
+        target -= x;
+
+        if (target < 0) {
+            return -1;
+        }
+
+        int left = 0;
+        int curSum = 0;
+        int maxSubLength = Integer.MIN_VALUE;
+        int n = nums.length;
+
+        for (int right = 0; right < n; right++) {
+            curSum += nums[right];
+
+            while (curSum > target) {
+                curSum -= nums[left];
+                left++;
+            }
+
+            if (curSum == target) {
+                maxSubLength = Math.max(maxSubLength, right - left + 1);
+            }
+        }
+
+        return maxSubLength == Integer.MIN_VALUE ? -1 : n - maxSubLength;        
     }
 }
