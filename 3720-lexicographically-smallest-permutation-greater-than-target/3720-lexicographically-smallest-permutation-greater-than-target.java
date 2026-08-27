@@ -1,38 +1,28 @@
 class Solution {
     public String lexGreaterPermutation(String s, String target) {
-        int n = s.length();
-        int[] cnt = new int[26];
-        for (char c : s.toCharArray()) {
-            cnt[c - 'a']++;
+        int count[] = new int[26];
+        for(int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++;
+            count[target.charAt(i) - 'a']--;
         }
-        for (int i = n - 1; i >= 0; i--) {
-            int[] remain = cnt.clone();
-            boolean possible = true;
-            for (int j = 0; j < i; j++) {
-                int x = target.charAt(j) - 'a';
-                if (remain[x] == 0) {
-                    possible = false;
-                    break;
+        char t[] = target.toCharArray();
+        for(int i = s.length() - 1; i >= 0; i--) {
+            int b = t[i] - 'a';
+            count[b]++;
+            if(Arrays.stream(count).min().getAsInt() < 0) continue;
+            for(int j = b + 1; j < 26; j++) {
+                if(count[j] > 0) {
+                    count[j]--;
+                    t[i] = (char) ('a' + j);
+                    return new String(t, 0, i + 1) + getMinString(count);
                 }
-                remain[x]--;
-            }
-            if (!possible)
-                continue;
-            int targetChar = target.charAt(i) - 'a';
-            for (int c = targetChar + 1; c < 26; c++) {
-                if (remain[c] == 0)
-                    continue;
-                    StringBuilder ans = new StringBuilder(target.substring(0, i));
-                ans.append((char) ('a' + c));
-                remain[c]--;
-                for (int x = 0; x < 26; x++) {
-                    for (int t = 0; t < remain[x]; t++) {
-                        ans.append((char) ('a' + x));
-                    }
-                }
-                return ans.toString();
             }
         }
         return "";
+    }
+    private String getMinString(int count[]) {
+        StringBuilder result = new StringBuilder();
+        for(int i = 0; i < 26; i++) result.append(String.valueOf((char)('a' + i)).repeat(count[i]));
+        return result.toString();
     }
 }
