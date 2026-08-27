@@ -65,6 +65,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -202,6 +203,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -259,6 +261,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
