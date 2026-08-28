@@ -60,6 +60,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
+| [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1095-find-in-mountain-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -158,6 +159,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0974-subarray-sums-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1207-unique-number-of-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -208,6 +210,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+| [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -231,6 +234,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0451-sort-characters-by-frequency](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -347,6 +351,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
+| [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
