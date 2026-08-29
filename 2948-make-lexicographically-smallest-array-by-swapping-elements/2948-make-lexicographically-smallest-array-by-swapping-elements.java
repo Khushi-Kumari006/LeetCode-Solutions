@@ -1,26 +1,28 @@
 class Solution {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
         int n = nums.length;
-        int[] sorted = nums.clone();
-        Arrays.sort(sorted);
-        Map<Integer, List<Integer>> group = new HashMap<>();
-        Map<Integer, Integer> groupId = new HashMap<>();
-        Map<Integer, Integer> pos = new HashMap<>();
-        int id = 1;
-        group.computeIfAbsent(id, k -> new ArrayList<>()).add(sorted[0]);
-        groupId.put(sorted[0], id);
-        for(int i = 1; i < n; i++){
-            if(sorted[i] - sorted[i - 1] > limit){
-                id++;
-            }
-            group.computeIfAbsent(id, k -> new ArrayList<>()).add(sorted[i]);
-            groupId.put(sorted[i], id);
+        int[][] pairs = new int[n][2];
+        for (int i = 0; i < n; i++) {
+            pairs[i][0] = nums[i];
+            pairs[i][1] = i;
         }
-        for(int i = 0; i < n; i++){
-            int grp = groupId.get(nums[i]);
-            int p = pos.getOrDefault(grp, 0);
-            nums[i] = group.get(grp).get(p);
-            pos.put(grp, p + 1);
+       Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0]));
+        int start = 0;
+        while (start < n) {
+            int end = start;
+            while (end + 1 < n && (long) pairs[end + 1][0] - pairs[end][0] <= limit) {
+                end++;
+            }
+            int size = end - start + 1;
+            int[] indices = new int[size];
+            for (int i = 0; i < size; i++) {
+                indices[i] = pairs[start + i][1];
+            }
+            Arrays.sort(indices);
+            for (int i = 0; i < size; i++) {
+                nums[indices[i]] = pairs[start + i][0];
+            }
+            start = end + 1;
         }
         return nums;
     }
