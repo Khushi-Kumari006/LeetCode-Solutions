@@ -62,6 +62,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
@@ -198,6 +199,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -238,6 +240,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -364,6 +367,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -396,6 +400,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -561,4 +566,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
