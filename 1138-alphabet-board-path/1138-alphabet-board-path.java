@@ -1,19 +1,65 @@
 class Solution {
     public String alphabetBoardPath(String target) {
-        StringBuilder sb = new StringBuilder();
-        int sr = 0;
-        int sc = 0;
+        int curr = 0;
+        StringBuilder str = new StringBuilder();
         for (char ch : target.toCharArray()) {
-            int cr = (ch - 'a') / 5;
-            int cc = (ch - 'a') % 5;
-            sb.append("U".repeat(Math.max(0, sr - cr)));
-            sb.append("L".repeat(Math.max(0, sc - cc)));
-            sb.append("D".repeat(Math.max(0, cr - sr)));
-            sb.append("R".repeat(Math.max(0, cc - sc)));
-            sb.append("!");
-            sr = cr;
-            sc = cc;
+            int pos = ch - 'a';
+            while (true) {
+                if (curr < pos) {
+                    for (int i = curr / 5; i < pos / 5; i++) {
+                        if (curr + 5 < 26) {
+                            str.append('D');
+                            curr += 5;
+                        }
+                    }
+                    curr = horizontalMove(curr, pos, str);
+                }
+                else if (curr > pos) {
+                    for (int i = curr / 5; i > pos / 5; i--) {
+                        if (curr - 5 >= 0) {
+                            str.append('U');
+                            curr -= 5;
+                        }
+                    }
+                    curr = horizontalMove(curr, pos, str);
+                }
+                if (curr == pos) {
+                    break;
+                }
+            }
+            str.append('!');
         }
-        return sb.toString();
+        return str.toString();
+    }
+    public int horizontalMove(int curr, int pos, StringBuilder str) {
+        if (curr < pos) {
+            if (curr / 5 == pos / 5) {
+                for (int i = curr; i < pos; i++) {
+                    if (curr + 1 < 26) {
+                        str.append('R');
+                        curr++;
+                    }
+                }
+            }
+            else {
+                while (curr % 5 != pos % 5) {
+                    if (curr - 1 >= 0) {
+                        str.append('L');
+                        curr--;
+                    }
+                }
+            }
+        }
+        else if (curr > pos) {
+            if (curr / 5 == pos / 5) {
+                for (int i = curr; i > pos; i--) {
+                    if (curr - 1 >= 0) {
+                        str.append('L');
+                        curr--;
+                    }
+                }
+            }
+        }
+        return curr;
     }
 }
