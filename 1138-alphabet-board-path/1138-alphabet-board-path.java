@@ -1,56 +1,19 @@
 class Solution {
     public String alphabetBoardPath(String target) {
-        int n = target.length();
-        int cr=0,cc=0;
-        String ans="";
-        for(char ch : target.toCharArray()) {
-                int t = ch-97;
-                int r = t/5;
-                int c = t%5;
-                if(cr!=5){
-                while(true){
-                        if(r-cr==0 && c-cc==0)break;
-                        if(c-cc > 0){
-                            ans+='R';
-                            cc+=1;
-                        }
-                        else if(c-cc < 0){
-                            ans+='L';
-                            cc-=1;
-                        }
-                        else if(r-cr > 0){
-                            ans+='D';
-                            cr+=1;
-                        }
-                        else if(r-cr < 0){
-                            ans+='U';
-                            cr-=1;
-                        }
-                    }
-                }
-                else{
-                while(true){
-                        if(r-cr==0 && c-cc==0)break;
-                        if(r-cr > 0){
-                            ans+='D';
-                            cr+=1;
-                        }
-                        else if(r-cr < 0){
-                            ans+='U';
-                            cr-=1;
-                        }
-                        else if(c-cc > 0){
-                            ans+='R';
-                            cc+=1;
-                        }
-                        else if(c-cc < 0){
-                            ans+='L';
-                            cc-=1;
-                        }
-                    }
-                }
-                ans+='!';
-            }
-        return ans;
+        StringBuilder sb = new StringBuilder();
+        int sr = 0;
+        int sc = 0;
+        for (char ch : target.toCharArray()) {
+            int cr = (ch - 'a') / 5;
+            int cc = (ch - 'a') % 5;
+            sb.append("U".repeat(Math.max(0, sr - cr)));
+            sb.append("L".repeat(Math.max(0, sc - cc)));
+            sb.append("D".repeat(Math.max(0, cr - sr)));
+            sb.append("R".repeat(Math.max(0, cc - sc)));
+            sb.append("!");
+            sr = cr;
+            sc = cc;
+        }
+        return sb.toString();
     }
 }
