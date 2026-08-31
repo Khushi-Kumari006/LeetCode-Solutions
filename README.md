@@ -121,6 +121,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1138-alphabet-board-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -174,6 +175,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
+| [1138-alphabet-board-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1138-alphabet-board-path) |
 | [1207-unique-number-of-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
