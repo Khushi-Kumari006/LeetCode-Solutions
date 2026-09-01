@@ -1,18 +1,19 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int n = s.length();
-        int[] freq = new int[3];
-        int left = 0;
-        int ans = 0;
-        for (int right = 0; right < n; right++) {
-            freq[s.charAt(right) - 'a']++;
-            while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
-                ans += (n - right);
-                freq[s.charAt(left) - 'a']--;
-                left++;
+        int n=s.length();
+        int res=0;
+        int []map=new int[3];
+        int i=0,j=0;
+        while(j<n){
+            char ch=s.charAt(j);
+            map[ch-'a']++;
+            while(map[0]>0 && map[1]>0 && map[2]>0){
+                res+=(n-j);
+                map[s.charAt(i)-'a']--;
+                i++;
             }
+            j++;
         }
-        return ans;
-        
+        return res;
     }
 }
