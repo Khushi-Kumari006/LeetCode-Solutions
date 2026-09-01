@@ -1,0 +1,62 @@
+class DinnerPlates {
+    ArrayList<Stack<Integer>> plateStack;
+    TreeSet<Integer> set;
+    int capacity;
+    public DinnerPlates(int capacity) {
+        plateStack = new ArrayList<>();
+        this.capacity = capacity;
+        set = new TreeSet<Integer>();
+    }
+public void push(int val) {
+        int index = 0;
+        if(plateStack.size() == 0) {
+            plateStack.add(new Stack<Integer>());
+        }
+        if(set.size() == 0) {
+            index = plateStack.size()-1;
+            if(plateStack.get(index).size() == capacity) {
+                index = index+1;
+                plateStack.add(new Stack<Integer>());
+            }
+        } else {
+            index = set.first();
+            if(plateStack.get(index).size() == capacity-1) {
+                set.remove(index);
+            }
+        }   
+        plateStack.get(index).add(val);
+    }
+public int pop() {
+        int rightMost = plateStack.size()-1;
+        while(rightMost >= 0 && plateStack.get(rightMost).size() == 0) {
+            plateStack.remove(rightMost);
+            if(set.contains(rightMost)) {
+                set.remove(rightMost);
+            }
+            rightMost--;
+        }
+        if(rightMost < 0) {
+            return -1;
+        }
+        int element = plateStack.get(rightMost).pop();
+        return element;
+    }
+public int popAtStack(int index) {
+        if(index >= plateStack.size())
+            return -1;
+        if(plateStack.get(index).size() == 0)
+            return -1;
+            int element = plateStack.get(index).pop();
+        if(!set.contains(index)) {
+            set.add(index);
+        }
+        return element;
+    }
+}
+/**
+ * Your DinnerPlates object will be instantiated and called as such:
+ * DinnerPlates obj = new DinnerPlates(capacity);
+ * obj.push(val);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.popAtStack(index);
+ */
