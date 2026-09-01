@@ -100,6 +100,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -191,6 +192,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -219,6 +221,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -316,6 +319,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
