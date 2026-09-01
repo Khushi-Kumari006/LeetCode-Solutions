@@ -1,18 +1,16 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return atMost(nums, goal) - atMost(nums, goal - 1);
-    }
-    private int atMost(int[] nums, int goal) {
-        int head, tail = 0, sum = 0, result = 0;
-        for (head = 0; head < nums.length; head++) {
-            sum += nums[head];
-            while (sum > goal && tail <= head) {
-                sum -= nums[tail];
-                tail++;
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1);
+        int ps = 0;
+        int cnt=0;
+        for(int i=0; i<nums.length; i++) {
+            ps+= nums[i];
+            if(map.containsKey(ps - goal)) {
+                cnt += map.get(ps - goal);
             }
-            result += head - tail + 1;
+            map.put(ps, map.getOrDefault(ps, 0) + 1);
         }
-        return result;
-        
+        return cnt;
     }
 }
