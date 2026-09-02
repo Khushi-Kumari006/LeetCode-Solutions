@@ -362,6 +362,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -685,4 +686,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
