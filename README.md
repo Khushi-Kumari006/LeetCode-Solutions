@@ -361,6 +361,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -568,6 +569,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
@@ -675,4 +677,12 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
