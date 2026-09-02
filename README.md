@@ -313,6 +313,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0436-find-right-interval](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -340,6 +341,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
