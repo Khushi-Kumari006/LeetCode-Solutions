@@ -1,13 +1,19 @@
 class Solution {
     public int[] divisibilityArray(String word, int m) {
-         int n = word.length();
-        int[] res = new int[n];
-        long remainder = 0;
-        for (int i = 0; i < n; i++) {
-            int digit = word.charAt(i) - '0';
-            remainder = (remainder * 10 + digit) % m;
-            res[i] = (remainder == 0) ? 1 : 0;
+        char[] ch = word.toCharArray();
+        int[] ans = new int[ch.length];
+        long val = 0;
+        for(int i = 0; i < ch.length; i++){
+            int n = ch[i] - 48;
+            val = val * 10 + n;
+            if(val % m == 0){
+                ans[i] = 1;
+            }
+            else{
+                ans[i] = 0;
+            }
+            val = val % m;
         }
-        return res;
+        return ans;
     }
 }
