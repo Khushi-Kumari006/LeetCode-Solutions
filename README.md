@@ -44,6 +44,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0228-summary-ranges](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
