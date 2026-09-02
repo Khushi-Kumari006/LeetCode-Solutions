@@ -359,6 +359,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -650,5 +651,26 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
