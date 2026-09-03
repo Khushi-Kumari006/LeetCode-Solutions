@@ -1,18 +1,13 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int smallestOdd = Integer.MAX_VALUE;
-        for (int num : nums1) {
-            if (num % 2 == 1)
-                smallestOdd = Math.min(smallestOdd, num);
+         int mn = Integer.MAX_VALUE;
+        int oddCnt = 0;
+        for (int x : nums1) {
+            mn = Math.min(mn, x);
+            if (x % 2 == 1) oddCnt++;
         }
-        if (smallestOdd == Integer.MAX_VALUE)
-            return true;
-        for (int num : nums1) {
-            if (num % 2 == 0 && num <= smallestOdd)
-                return false;
-        }
-
-        return true;
+        // min Element is ODD(remaining even > min) or All Even!
+        return mn % 2 != 0 || oddCnt == 0;
         
     }
 }
