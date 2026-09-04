@@ -109,6 +109,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -221,6 +222,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2262-total-appeal-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
+| [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -433,6 +435,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
