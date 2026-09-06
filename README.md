@@ -132,6 +132,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0049-group-anagrams](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -402,6 +403,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
