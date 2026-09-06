@@ -60,6 +60,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0699-falling-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -201,6 +202,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0451-sort-characters-by-frequency](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0697-degree-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
