@@ -113,6 +113,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -159,6 +160,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
