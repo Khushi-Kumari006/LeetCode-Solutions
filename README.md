@@ -58,6 +58,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0699-falling-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
@@ -243,6 +244,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
