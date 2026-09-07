@@ -82,6 +82,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1207-unique-number-of-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
