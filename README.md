@@ -86,6 +86,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -450,6 +451,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
