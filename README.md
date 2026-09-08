@@ -128,6 +128,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3152-special-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3152-special-array-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -388,6 +389,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3152-special-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3152-special-array-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Math
 |  |
@@ -524,6 +526,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
+| [3152-special-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3152-special-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
