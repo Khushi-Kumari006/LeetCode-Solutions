@@ -110,6 +110,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1748-sum-of-unique-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -338,6 +339,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -537,6 +539,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1590-make-sum-divisible-by-p](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1854-maximum-population-year](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
