@@ -1,20 +1,12 @@
 class Solution {
-    int count(int a,int []n){
-        int i,l,c=0;
-        l=n.length;
-        for(i=0;i<l;i++){
-            if (a==n[i])
-            ++c;
-        }
-        return c;
-    }
     public int sumOfUnique(int[] nums) {
-        int i,l,s=0;
-        l=nums.length;
-        for( i= 0 ; i < l ; i ++){
-            if (count(nums[i],nums)==1)
-            s+=nums[i];
+        int res = 0;
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i = 0;i<nums.length;i++){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+            if(map.get(nums[i]) == 1)res+=nums[i];
+            else if(map.get(nums[i]) == 2)res-=nums[i];
         }
-        return s;
+        return res;
     }
 }
