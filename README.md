@@ -170,6 +170,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1927-sum-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
