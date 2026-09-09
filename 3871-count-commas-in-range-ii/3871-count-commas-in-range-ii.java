@@ -1,12 +1,30 @@
 class Solution {
     public long countCommas(long n) {
-        if (n <= 999) return 0;
-        long totalCommas = 0;
-        long start = 1000;
-        while (start <= n) {
-            totalCommas += n - start + 1;
-            start *= 1000;
+        if (n <= 999) {
+            return 0;
         }
-        return totalCommas;
+        else if (n <= 999999) {
+            return n - 999;
+        }
+        else if (n <= 999999999) {
+            return (999999 - 999)
+                 + 2 * (n - 999999);
+        }
+        else if (n <= 999999999999L) {
+            return (999999 - 999)
+                 + 2 * (999999999 - 999999)
+                 + 3 * (n - 999999999);
+        }
+        else if (n <= 999999999999999L) {
+            return (999999 - 999)
+                 + 2 * (999999999 - 999999)
+                 + 3 * (999999999999L - 999999999)
+                 + 4 * (n - 999999999999L);
+        }
+        return (999999 - 999)
+            + 2 * (999999999 - 999999)
+            + 3 * (999999999999L - 999999999)
+            + 4 * (999999999999999L - 999999999999L)
+            + 5 * (n - 999999999999999L);
     }
 }
