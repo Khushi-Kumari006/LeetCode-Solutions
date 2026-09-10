@@ -173,6 +173,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1208-get-equal-substrings-within-budget](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1416-restore-the-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1416-restore-the-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -460,6 +461,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1416-restore-the-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1416-restore-the-array) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
