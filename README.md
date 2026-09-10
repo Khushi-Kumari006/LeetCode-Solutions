@@ -61,6 +61,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0699-falling-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0699-falling-squares) |
@@ -303,6 +304,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0436-find-right-interval](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
@@ -358,6 +360,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0923-3sum-with-multiplicity](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -506,6 +509,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -577,6 +581,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -617,6 +622,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Combinatorics
