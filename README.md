@@ -141,6 +141,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-special-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3152-special-array-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -264,6 +265,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -687,6 +689,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
@@ -785,6 +788,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
