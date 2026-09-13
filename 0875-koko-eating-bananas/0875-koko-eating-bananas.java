@@ -14,7 +14,7 @@ public class Solution {
         }
         return ans;
     }
-public boolean canFinish(int[] piles, int h, int k) {
+    public boolean canFinish(int[] piles, int h, int k) {
         long hours = 0;
         for (int pile : piles) {
             hours += pile / k;
