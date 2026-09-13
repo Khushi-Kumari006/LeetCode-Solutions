@@ -1,47 +1,51 @@
 class Solution {
-    public int minDays(int[] bloomDay, int m, int k) {
-        if( bloomDay.length < (long) m*k){
-            return -1;
+    public static int getmin(int boolmDay[]){
+        int Min_Value = Integer.MAX_VALUE;
+        for (int i =0; i< boolmDay.length; i++){
+            Min_Value = Math.min(boolmDay[i],Min_Value);
         }
-        int max = bloomDay[0];
-        for(int i: bloomDay){
-            max = Math.max(max, i);
-        }
-
-        int start = 1;
-        int end = max;
-
-        while(start <= end){
-            int mid = start + (end - start) / 2;
-            int bouquets = testBouquet(bloomDay, k, mid);
-
-            if(bouquets < m){
-                start = mid + 1;
-            }
-            else{
-
-                end = mid - 1;
-            }
-        }
-        return start;
-
-
+        return Min_Value;
     }
-    int testBouquet(int[] bloomDay, int k, int day){
-        int bouquet = 0;
-        int flower = 0;
-        for(int i = 0; i<bloomDay.length; i++){
-            if(bloomDay[i] - day <= 0){
-                flower ++;
-                if(flower == k){
-                    bouquet ++;
-                    flower = 0;
-                }
-            }
-            else{
-                flower = 0;
-            }
+    public static int getmax(int boolmDay[]){
+        int max = Integer.MIN_VALUE;
+        for(int i =0; i< boolmDay.length ;i++){
+            max = Math.max(boolmDay[i],max);
         }
-        return bouquet;
+        return max;
+    }
+    public static boolean Checking(int boolmDay[],int k,int mid,int m){
+        int flowers = 0;
+        int bouquets = 0;
+
+      for(int i =0; i < boolmDay.length ; i++){
+        if (boolmDay[i] <= mid) flowers++;
+        else flowers = 0;
+         if (flowers==k) {
+             bouquets++; 
+             flowers=0;
+             }
+      }
+      return bouquets>=m;
+    }
+        
+    public int minDays(int[] bloomDay, int m, int k) {
+        if((long) bloomDay.length < m*k) return -1;
+
+      int low = getmin(bloomDay);
+     int high = getmax(bloomDay);
+      int ans = -1;
+      while (low <=high){
+        int  mid = low+(high-low)/2;
+        if(Checking(bloomDay,k,mid,m))
+        {
+            ans = mid;
+            high = mid-1;
+        }
+        else
+            low=mid+1;
+        
+      }
+      return ans;
+
     }
 }
