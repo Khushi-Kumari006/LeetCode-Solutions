@@ -50,6 +50,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0239-sliding-window-maximum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
@@ -381,6 +382,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
