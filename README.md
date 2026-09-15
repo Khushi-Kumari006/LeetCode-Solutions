@@ -158,6 +158,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -375,6 +376,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -474,6 +476,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -819,4 +822,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0561-array-partition) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
