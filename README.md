@@ -56,6 +56,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0327-count-of-range-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0454-4sum-ii) |
@@ -417,6 +418,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -490,6 +492,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -556,6 +559,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1090-largest-values-from-labels](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
@@ -588,6 +592,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
