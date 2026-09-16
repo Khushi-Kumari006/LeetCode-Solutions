@@ -1,27 +1,21 @@
 class Solution {
     public String removeDuplicates(String s, int k) {
-        ArrayDeque<Adjacent> st = new ArrayDeque<>(s.length());
-        for (char c : s.toCharArray()) {
-            if (!st.isEmpty() && st.peekLast().ch == c) {
-                st.peekLast().freq++; 
-            } else {
-                st.addLast(new Adjacent(c, 1));
+        Stack<Character> charSt=new Stack<>();
+        Stack<Integer> countSt=new Stack<>();        
+        for(char ch:s.toCharArray()){
+            if(charSt.size()>0 && charSt.peek()==ch) countSt.push(countSt.peek()+1);
+            else countSt.push(1);
+            charSt.push(ch);
+            if(countSt.peek()==k){
+                for(int i=0;i<k;i++){
+                    charSt.pop();
+                    countSt.pop();
+                }
             }
-            if (st.peekLast().freq == k) 
-                st.removeLast();
         }
-        StringBuilder sb = new StringBuilder();
-        for (Adjacent a : st) {
-            sb.append(String.valueOf(a.ch).repeat(a.freq));
-        }
-        return sb.toString();
-    }
-    class Adjacent {
-        char ch;
-        int freq;
-        public Adjacent(char ch, int freq) {
-            this.ch = ch;
-            this.freq = freq;
-        }
+        StringBuilder sb=new StringBuilder();
+        while(charSt.size()>0) sb.append(charSt.pop());
+        return sb.reverse().toString();
+        
     }
 }
