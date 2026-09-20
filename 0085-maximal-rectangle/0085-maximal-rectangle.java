@@ -1,26 +1,42 @@
-class Solution {
-    public int maximalRectangle(char[][] matrix) {
-        if (matrix == null || matrix.length == 0) {
-            return 0;
-        }
-        int n = matrix[0].length;
-        int[] heights = new int[n + 1];
-        int maxArea = 0;
-        for (char[] row : matrix) {
-            for (int i = 0; i < n; i++) {
-                heights[i] = row[i] == '1' ? heights[i] + 1 : 0;
-            }
-            Stack<Integer> stack = new Stack<>();
-            stack.push(-1);
-            for (int i = 0; i < n + 1; i++) {
-                while (stack.peek() != -1 && heights[i] < heights[stack.peek()]) {
-                    int h = heights[stack.pop()];
-                    int w = i - stack.peek() - 1;
-                    maxArea = Math.max(maxArea, h * w);
-                }
-                stack.push(i);
-            }
-        }
-    return maxArea;        
+public class Solution {
+public int maximalRectangle(char[][] matrix) {
+    if(matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+    
+    int[] height = new int[matrix[0].length];
+    for(int i = 0; i < matrix[0].length; i ++){
+        if(matrix[0][i] == '1') height[i] = 1;
     }
+    int result = largestInLine(height);
+    for(int i = 1; i < matrix.length; i ++){
+        resetHeight(matrix, height, i);
+        result = Math.max(result, largestInLine(height));
+    }
+    
+    return result;
+}
+
+private void resetHeight(char[][] matrix, int[] height, int idx){
+    for(int i = 0; i < matrix[0].length; i ++){
+        if(matrix[idx][i] == '1') height[i] += 1;
+        else height[i] = 0;
+    }
+}    
+
+public int largestInLine(int[] height) {
+    if(height == null || height.length == 0) return 0;
+    int len = height.length;
+    Stack<Integer> s = new Stack<Integer>();
+    int maxArea = 0;
+    for(int i = 0; i <= len; i++){
+        int h = (i == len ? 0 : height[i]);
+        if(s.isEmpty() || h >= height[s.peek()]){
+            s.push(i);
+        }else{
+            int tp = s.pop();
+            maxArea = Math.max(maxArea, height[tp] * (s.isEmpty() ? i : i - 1 - s.peek()));
+            i--;
+        }
+    }
+    return maxArea;
+}
 }
