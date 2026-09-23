@@ -1,33 +1,23 @@
 class Solution {
     public int minOperations(int[] nums, int x) {
-        int target = 0;
-        for (int num : nums) {
-            target += num;
-        }
-        target -= x;
-
-        if (target < 0) {
-            return -1;
-        }
-
-        int left = 0;
-        int curSum = 0;
-        int maxSubLength = Integer.MIN_VALUE;
         int n = nums.length;
-
-        for (int right = 0; right < n; right++) {
-            curSum += nums[right];
-
-            while (curSum > target) {
-                curSum -= nums[left];
-                left++;
+        int sum = 0;
+        for(int i = 0 ; i < n ; ++i){
+            sum += nums[i];
+        }
+        int target = sum - x;
+        int left = 0;
+        int s = 0;
+        int size = -1;
+        for(int right = 0 ; right < n ; ++right){
+            s += nums[right];
+            while(left <= right && s > target){
+                s -= nums[left++]; 
             }
-
-            if (curSum == target) {
-                maxSubLength = Math.max(maxSubLength, right - left + 1);
+            if(s == target){
+                size = Math.max(size,right - left +1);
             }
         }
-
-        return maxSubLength == Integer.MIN_VALUE ? -1 : n - maxSubLength;        
+        return size != -1 ?  n - size : -1;
     }
 }
