@@ -181,6 +181,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0242-valid-anagram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -677,6 +678,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0032-longest-valid-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -881,6 +883,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
