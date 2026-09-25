@@ -480,6 +480,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0263-ugly-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
