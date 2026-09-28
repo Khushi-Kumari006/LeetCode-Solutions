@@ -17,10 +17,11 @@ class Solution {
     public int amountOfTime(TreeNode root, int start) {
         Map<Integer, List<Integer>> graph = new HashMap<>();
         createGraph(root, graph);
-        return maxDistance(graph, new HashSet<>(), start, 0, 0);
+        return maxDistance(graph, new LinkedList<>(List.of(start)), new HashSet<>(Set.of(start)));
     }
     private void createGraph(TreeNode root, Map<Integer, List<Integer>> graph) {
         List<Integer> adjacent = graph.computeIfAbsent(root.val, parameter -> new ArrayList<>());
+
         if (root.left != null) {
             graph.computeIfAbsent(root.left.val, param -> new ArrayList<>()).add(root.val);
             adjacent.add(root.left.val);
@@ -32,14 +33,21 @@ class Solution {
             createGraph(root.right, graph);
         }
     }
-    private int maxDistance(Map<Integer, List<Integer>> graph, Set<Integer> visited, int currentNode, int maxDistance, int currentDistance) {
-        if (!visited.contains(currentNode)) {
-            visited.add(currentNode);
-            maxDistance = Math.max(maxDistance, currentDistance);
-            for (int neighbour : graph.get(currentNode)) {
-                maxDistance = Math.max(maxDistance(graph, visited, neighbour, maxDistance, currentDistance + 1), maxDistance);
+   private int maxDistance(Map<Integer, List<Integer>> graph, Queue<Integer> queue, Set<Integer> visited) {
+        int maxDistance = 0;
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            while (size-- > 0) {
+                int currentNode = queue.poll();
+                for (int neighbour : graph.get(currentNode)) {
+                    if (!visited.contains(neighbour)) {
+                        queue.offer(neighbour);
+                        visited.add(neighbour);
+                    }
+                }
             }
+            maxDistance++;
         }
-        return maxDistance;
+        return maxDistance - 1;
     }
 }
