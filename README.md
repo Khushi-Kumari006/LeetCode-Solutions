@@ -45,6 +45,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -442,6 +443,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0268-missing-number) |
