@@ -1,15 +1,9 @@
 class Solution {
     public int titleToNumber(String columnTitle) {
-         int l = columnTitle.length();
-        int pow = 1;
-        int ans = 0;        
-        for (int i = l - 1; i >= 0; i--) {
-            char letter = columnTitle.charAt(i);
-            int ascii = (int) letter;
-            int val = ascii - 64;
-            ans += val * pow;
-            pow *= 26;
+        int sum = 0;
+        for (int i = 0; i < columnTitle.length(); i++) {
+            sum = sum * 26 + ((columnTitle.charAt(i) - 'A') + 1);
         }
-        return ans;
+        return sum;
     }
 }
