@@ -144,6 +144,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -558,6 +559,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2063-vowels-of-all-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2262-total-appeal-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -646,6 +648,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0883-projection-area-of-3d-shapes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -849,6 +852,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Cartesian Tree
 |  |
 | ------- |
