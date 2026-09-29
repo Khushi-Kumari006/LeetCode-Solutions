@@ -884,6 +884,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -935,11 +936,17 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
