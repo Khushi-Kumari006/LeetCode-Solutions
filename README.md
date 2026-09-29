@@ -56,6 +56,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0275-h-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -650,6 +651,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -810,6 +812,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1172-dinner-plate-stacks](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
