@@ -15,19 +15,32 @@
  */
 class Solution {
     public TreeNode trimBST(TreeNode root, int low, int high) {
-        if(root==null){
+        while (root != null && (root.val < low || root.val > high)) {
+            if (root.val < low) {
+                root = root.right;
+            } else {
+                root = root.left;
+            }
+        }
+        if (root == null) {
             return null;
         }
-        if(root.val>=low &&root.val<=high){
-            root.left = trimBST(root.left,low,high);
-            root.right=trimBST(root.right,low,high);
-        }else if(root.val<low){
-            root = trimBST(root.right,low,high);
-        }else if(root.val>high){
-            root = trimBST(root.left,low,high);
+        TreeNode curr = root;
+        while (curr != null) {
+            if (curr.left != null && curr.left.val < low) {
+                curr.left = curr.left.right;
+            } else {
+                curr = curr.left;
+            }
         }
-        
+        curr = root;
+        while (curr != null) {
+            if (curr.right != null && curr.right.val > high) {
+                curr.right = curr.right.left;
+            } else {
+                curr = curr.right;
+            }
+        }
         return root;
-        
     }
 }
