@@ -705,6 +705,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0032-longest-valid-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -894,6 +895,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0669-trim-a-binary-search-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -948,6 +950,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -956,6 +959,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
