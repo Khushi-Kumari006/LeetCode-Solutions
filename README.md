@@ -71,6 +71,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0496-next-greater-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -469,6 +470,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0436-find-right-interval](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
