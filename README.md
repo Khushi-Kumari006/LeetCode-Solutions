@@ -514,6 +514,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0788-rotated-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0989-add-to-array-form-of-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -550,6 +551,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0788-rotated-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1025-divisor-game) |
