@@ -501,6 +501,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0258-add-digits) |
