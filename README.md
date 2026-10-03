@@ -851,6 +851,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
