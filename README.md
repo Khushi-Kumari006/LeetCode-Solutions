@@ -913,6 +913,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
@@ -935,6 +936,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
@@ -948,6 +950,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -1031,4 +1034,8 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
