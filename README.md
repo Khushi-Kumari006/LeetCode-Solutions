@@ -524,6 +524,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -986,6 +987,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0394-decode-string) |
