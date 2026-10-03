@@ -48,6 +48,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -677,6 +678,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -920,6 +922,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -940,6 +943,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -955,6 +959,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0669-trim-a-binary-search-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
