@@ -179,6 +179,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3524-find-x-value-of-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -684,6 +685,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
