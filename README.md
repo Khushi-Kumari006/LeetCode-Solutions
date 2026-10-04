@@ -187,6 +187,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3876-construct-uniform-parity-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## String
 |  |
 | ------- |
@@ -415,6 +416,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Queue
 |  |
 | ------- |
