@@ -585,6 +585,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3524-find-x-value-of-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3870-count-commas-in-range](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -622,6 +623,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Brainteaser
 |  |
 | ------- |
