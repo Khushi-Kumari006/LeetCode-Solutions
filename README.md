@@ -149,6 +149,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1991-find-the-middle-index-in-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -738,6 +739,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1854-maximum-population-year](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1991-find-the-middle-index-in-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2574-left-and-right-sum-differences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
