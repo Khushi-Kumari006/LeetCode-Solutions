@@ -623,6 +623,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Brainteaser
 |  |
@@ -755,6 +756,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2574-left-and-right-sum-differences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3152-special-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3152-special-array-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
