@@ -193,6 +193,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3903-smallest-stable-index-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## String
 |  |
 | ------- |
@@ -755,6 +756,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
