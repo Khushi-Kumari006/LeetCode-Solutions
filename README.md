@@ -187,6 +187,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -257,6 +258,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Segment Tree
@@ -652,6 +654,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Memoization
 |  |
 | ------- |
