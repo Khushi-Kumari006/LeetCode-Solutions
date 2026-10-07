@@ -195,6 +195,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [3978-unique-middle-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3979-maximum-valid-pair-sum) |
 ## String
 |  |
@@ -467,6 +468,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3978-unique-middle-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
