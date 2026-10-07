@@ -222,6 +222,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -574,6 +575,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -667,6 +669,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
