@@ -138,6 +138,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1652-defuse-the-bomb](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -771,6 +772,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1590-make-sum-divisible-by-p](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
