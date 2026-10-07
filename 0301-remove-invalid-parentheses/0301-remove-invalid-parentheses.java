@@ -1,37 +1,51 @@
-public class Solution {
-    public List<String> removeInvalidParentheses(String s) {
-      List<String> res = new ArrayList<>();
-      if (s == null) return res;
-      Set<String> visited = new HashSet<>();
-      Queue<String> queue = new LinkedList<>();
-      queue.add(s);
-      visited.add(s);
-      boolean found = false;
-      while (!queue.isEmpty()) {
-        s = queue.poll();
-        if (isValid(s)) {
-          res.add(s);
-          found = true;
+class Solution {
+    int n;
+    HashSet<String> set;
+    public void dfs(int index, String s, StringBuilder sb, int open, int close) {
+        if(index == n) {
+            if(open == close) {
+                set.add(sb.toString());
+            }
+            return;
         }
-        if (found) continue;
-        for (int i = 0; i < s.length(); i++) {
-          if (s.charAt(i) != '(' && s.charAt(i) != ')') continue;
-          String t = s.substring(0, i) + s.substring(i + 1);
-          if (!visited.contains(t)) {
-            queue.add(t);
-            visited.add(t);
-          }
+        char ch = s.charAt(index);
+        if(Character.isLetter(ch)) {
+            sb.append(ch);
+            dfs(index + 1, s, sb, open, close);
+            sb.deleteCharAt(sb.length() - 1);
+            return;
         }
-      }
-      return res;
+        if(ch == '(') {
+            sb.append(ch);
+            dfs(index + 1, s, sb, open + 1, close);
+            sb.deleteCharAt(sb.length() - 1);
+            dfs(index + 1, s, sb, open, close);
+        } else {
+            if(open > close) {
+                sb.append(ch);
+                dfs(index + 1, s, sb, open, close + 1);
+                sb.deleteCharAt(sb.length() - 1);
+            }
+            dfs(index + 1, s, sb, open, close);
+        }
     }
-      boolean isValid(String s) {
-      int count = 0;
-      for (int i = 0; i < s.length(); i++) {
-        char c = s.charAt(i);
-        if (c == '(') count++;
-        if (c == ')' && count-- == 0) return false;
-      }  
-      return count == 0;
+    public List<String> removeInvalidParentheses(String s) {
+        n = s.length();
+        set = new HashSet<>();
+        dfs(0, s, new StringBuilder(), 0, 0);
+        if(set.size() == 0) {
+            return new ArrayList<>(Arrays.asList(""));
+        }
+        int size = 0;
+        for(String str : set) {
+            size = Math.max(size, str.length());
+        }
+        List<String> ans = new ArrayList<>();
+        for(String str : set) {
+            if(str.length() == size) {
+                ans.add(str);
+            }
+        }
+        return ans;
     }
 }
