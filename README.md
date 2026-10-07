@@ -556,6 +556,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0007-reverse-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -604,6 +605,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0042-trapping-rain-water](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -668,6 +670,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
