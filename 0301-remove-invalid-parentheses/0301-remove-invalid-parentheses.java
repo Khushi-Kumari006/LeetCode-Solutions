@@ -1,52 +1,37 @@
-class Solution {
-    Set<String> result = new HashSet<>();
+public class Solution {
     public List<String> removeInvalidParentheses(String s) {
-        int leftRemove = 0;
-        int rightRemove = 0;
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                leftRemove++;
-            } else if (c == ')') {
-                if (leftRemove > 0) {
-                    leftRemove--;
-                } else {
-                    rightRemove++;
-                }
-            }
+      List<String> res = new ArrayList<>();
+      if (s == null) return res;
+      Set<String> visited = new HashSet<>();
+      Queue<String> queue = new LinkedList<>();
+      queue.add(s);
+      visited.add(s);
+      boolean found = false;
+      while (!queue.isEmpty()) {
+        s = queue.poll();
+        if (isValid(s)) {
+          res.add(s);
+          found = true;
         }
-        dfs(s, 0, leftRemove, rightRemove, 0, new StringBuilder());
-        return new ArrayList<>(result);
+        if (found) continue;
+        for (int i = 0; i < s.length(); i++) {
+          if (s.charAt(i) != '(' && s.charAt(i) != ')') continue;
+          String t = s.substring(0, i) + s.substring(i + 1);
+          if (!visited.contains(t)) {
+            queue.add(t);
+            visited.add(t);
+          }
+        }
+      }
+      return res;
     }
-    private void dfs(String s, int index, int leftRemove,int rightRemove, int balance, StringBuilder path) {
-        if (balance < 0) return;
-        if (index == s.length()) {
-            if (leftRemove == 0 && rightRemove == 0 && balance == 0) {
-                result.add(path.toString());
-            }
-            return;
-        }
-        char c = s.charAt(index);
-        path.append(c);
-        if (c == '(') {
-            dfs(s, index + 1, leftRemove, rightRemove,
-                balance + 1, path);
-        } else if (c == ')') {
-            if (balance > 0) {
-                dfs(s, index + 1, leftRemove, rightRemove,
-                    balance - 1, path);
-            }
-        } else {
-            dfs(s, index + 1, leftRemove, rightRemove,
-                balance, path);
-        }
-        path.deleteCharAt(path.length() - 1);
-        if (c == '(' && leftRemove > 0) {
-            dfs(s, index + 1, leftRemove - 1, rightRemove,
-                balance, path);
-        }
-        if (c == ')' && rightRemove > 0) {
-            dfs(s, index + 1, leftRemove, rightRemove - 1,
-                balance, path);
-        }
+      boolean isValid(String s) {
+      int count = 0;
+      for (int i = 0; i < s.length(); i++) {
+        char c = s.charAt(i);
+        if (c == '(') count++;
+        if (c == ')' && count-- == 0) return false;
+      }  
+      return count == 0;
     }
 }
