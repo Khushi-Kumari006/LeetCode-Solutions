@@ -212,6 +212,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0242-valid-anagram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -999,6 +1000,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1063,6 +1065,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting Sort
