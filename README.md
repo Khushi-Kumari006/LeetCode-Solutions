@@ -520,6 +520,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0374-guess-number-higher-or-lower](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -573,6 +574,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0382-linked-list-random-node](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0788-rotated-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0788-rotated-digits) |
