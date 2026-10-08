@@ -52,6 +52,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -584,6 +585,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0062-unique-paths](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -918,6 +920,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -968,6 +971,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1199,4 +1203,16 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
