@@ -8,12 +8,8 @@ class Solution {
         return gcd(min, max);
     }
     private int gcd(int a, int b) {
-        while (b != a) {
-            if (b >= a)
-                b -= a;
-            else
-                a -= b;
-        }
-        return a;
+        if (b == 0)
+            return a;
+        return gcd(b, a % b);
     }
 }
