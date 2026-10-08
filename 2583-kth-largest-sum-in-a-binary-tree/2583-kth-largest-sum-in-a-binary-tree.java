@@ -15,35 +15,39 @@
  */
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
-        List<List<Integer>> l1 = new ArrayList<>();
-        if(root==null){
-            return (long) 0;
-        }
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-        while(!queue.isEmpty()){
-            int size = queue.size();
-            List<Integer> currLevel = new ArrayList<>();
-            for(int i=0;i<size;i++){
-                TreeNode curr = queue.poll();
-                currLevel.add(curr.val);
-                if(curr.left!=null) queue.offer(curr.left);
-                if(curr.right!=null) queue.offer(curr.right);
+        PriorityQueue<Long> pq = new PriorityQueue<Long>();
+        Queue<TreeNode> q = new ArrayDeque<TreeNode>();
+        if (root == null)
+            return -1;
+        q.add(root);
+        while (!q.isEmpty()) {
+            int n = q.size();
+            int i = 0;
+            long sum = 0;
+            while (i < n) {
+                TreeNode temp = q.poll();
+                if (temp.left != null) {
+                    q.add(temp.left);
+                }
+                if (temp.right != null) {
+                    q.add(temp.right);
+                }
+                sum += temp.val;
+                i++;
             }
-            l1.add(currLevel);
-        }
-        if(k>l1.size()){
-            return (long)-1;
-        }
-        long[] arr = new long[l1.size()];
-        for(int i=0;i<l1.size();i++){
-            long s = 0;
-            for(int j=0;j<l1.get(i).size();j++){
-                s+=(long)l1.get(i).get(j);
+            if (pq.size() < k) {
+                pq.add(sum);
+            } else {
+                if (pq.peek() < sum) {
+                    pq.poll();
+                    pq.add(sum);
+                }
             }
-            arr[i] = s;
         }
-        Arrays.sort(arr);
-        return arr[l1.size()-k];
+        if (pq.size() < k)
+            return -1;
+        return pq.peek();
+
     }
+
 }
