@@ -282,6 +282,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3838-weighted-word-mapping](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Segment Tree
 |  |
 | ------- |
@@ -455,6 +456,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Queue
 |  |
 | ------- |
@@ -521,6 +523,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
 | ------- |
