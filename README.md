@@ -642,6 +642,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3876-construct-uniform-parity-array-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3959-check-good-integer](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -775,6 +776,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Matrix
 |  |
 | ------- |
