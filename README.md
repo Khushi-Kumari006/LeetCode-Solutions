@@ -616,6 +616,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1518-water-bottles](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1563-stone-game-v](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1688-count-of-matches-in-tournament](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -707,6 +708,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1103-distribute-candies-to-people](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
