@@ -237,6 +237,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0981-time-based-key-value-store](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1021-remove-outermost-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1078-occurrences-after-bigram) |
 | [1096-brace-expansion-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -846,6 +847,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0856-score-of-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1172-dinner-plate-stacks](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
@@ -1005,6 +1007,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0678-valid-parenthesis-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
