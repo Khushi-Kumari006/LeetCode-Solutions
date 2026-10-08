@@ -617,6 +617,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1927-sum-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2063-vowels-of-all-substrings) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
