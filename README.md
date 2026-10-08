@@ -208,6 +208,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3978-unique-middle-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3979-maximum-valid-pair-sum) |
+| [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## String
 |  |
 | ------- |
@@ -777,6 +778,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3689-maximum-total-subarray-value-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
+| [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## Matrix
 |  |
 | ------- |
