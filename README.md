@@ -168,6 +168,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2295-replace-elements-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2574-left-and-right-sum-differences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -452,6 +453,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
@@ -574,6 +576,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -772,6 +775,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1927-sum-game](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -844,6 +848,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1172-dinner-plate-stacks](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
