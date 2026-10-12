@@ -179,6 +179,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2781-length-of-the-longest-valid-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
@@ -370,6 +371,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3026-maximum-good-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -745,6 +747,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1386-cinema-seat-allocation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -781,6 +784,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2528-maximize-the-minimum-powered-city](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
