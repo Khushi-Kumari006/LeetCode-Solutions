@@ -646,6 +646,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -789,6 +790,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
