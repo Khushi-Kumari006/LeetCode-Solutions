@@ -1,53 +1,49 @@
 class Solution {
-    private static final int MOD = 1_000_000_007;
-    private long[] tree;
-    private long[] treeSq;
-    private long[] lazy;
-    private void pushDown(int node, int start, int end) {
-        if (lazy[node] != 0) {
-            int mid = start + (end - start) / 2;
-            int leftChild = 2 * node;
-            int rightChild = 2 * node + 1;
-            apply(leftChild, start, mid, lazy[node]);
-            apply(rightChild, mid + 1, end, lazy[node]);
-            lazy[node] = 0;
+    private long[] bit1;
+    private long[] bit2;
+    private int n;
+    private long prefixSum(int k) {
+        long s1 = 0, s2 = 0;
+        int index = k;
+        while (index > 0) {
+            s1 += bit1[index];
+            s2 += bit2[index];
+            index -= index & -index;
         }
+        return (long)k * s1 - s2;
     }
-    private void apply(int node, int start, int end, long val) {
-        long len = end - start + 1;
-        val %= MOD;
-        treeSq[node] = (treeSq[node] + 2 * val % MOD * tree[node] % MOD + len % MOD * (val * val % MOD) % MOD) % MOD;
-        tree[node] = (tree[node] + len * val) % MOD;
-        lazy[node] = (lazy[node] + val) % MOD;
-    }
-    private void update(int node, int start, int end, int l, int r, long val) {
-        if (r < start || end < l) {
-            return;
+    private void addBoundary(int index, long delta) {
+        long weighted = delta * (index - 1);
+        while (index <= n) {
+            bit1[index] += delta;
+            bit2[index] += weighted;
+            index += index & -index;
         }
-        if (l <= start && end <= r) {
-            apply(node, start, end, val);
-            return;
-        }
-        pushDown(node, start, end);
-        int mid = start + (end - start) / 2;
-        update(2 * node, start, mid, l, r, val);
-        update(2 * node + 1, mid + 1, end, l, r, val);
-        tree[node] = (tree[2 * node] + tree[2 * node + 1]) % MOD;
-        treeSq[node] = (treeSq[2 * node] + treeSq[2 * node + 1]) % MOD;
     }
     public int sumCounts(int[] nums) {
-        int n = nums.length;
-        tree = new long[4 * n];
-        treeSq = new long[4 * n];
-        lazy = new long[4 * n];
-        Map<Integer, Integer> lastPos = new HashMap<>();
-        long totalSum = 0;
+        final long MOD = 1000000007L;
+        n = nums.length;
+        bit1 = new long[n + 1];
+        bit2 = new long[n + 1];
+        int[] last = new int[100001];
+        Arrays.fill(last, -1);
+        long totalDistinct = 0;
+        long endingSquares = 0;
+        long answer = 0;
         for (int i = 0; i < n; i++) {
-            int prev = lastPos.getOrDefault(nums[i], -1);
-            update(1, 0, n - 1, prev + 1, i, 1);
-            totalSum = (totalSum + treeSq[1]) % MOD;
-            lastPos.put(nums[i], i);
+            int value = nums[i];
+            int p = last[value];
+            long affectedSum =
+                totalDistinct - prefixSum(p + 1);
+            long length = i - p;
+            endingSquares =
+                (endingSquares + 2 * affectedSum + length) % MOD;
+            answer = (answer + endingSquares) % MOD;
+            addBoundary(p + 2, 1);
+            addBoundary(i + 2, -1);
+            totalDistinct += length;
+            last[value] = i;
         }
-        return (int) totalSum;
+        return (int)answer;
     }
 }
