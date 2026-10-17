@@ -1,44 +1,41 @@
 class Solution {
-    class State {
-        int num;
-        int digitSum;
-        int originalIndex;
-        public State(int num, int originalIndex) {
-            this.num = num;
-            this.originalIndex = originalIndex;
-            int c = num;
-            while(c > 0) {
-                this.digitSum += c % 10;
-                c /= 10;
-            }
-        }
-        @Override
-        public String toString() {
-            return "State{num="+num+",digitSum="+digitSum+",originalIndex="+originalIndex+"}";
-        }
-    }
     public int minSwaps(int[] nums) {
-        State[] states = new State[nums.length];
-        for(int i = 0; i < nums.length; i++) {
-            states[i] = new State(nums[i],i);
+        int n = nums.length;
+        Integer[] indices = new Integer[n];
+        for (int i = 0; i < n; i++) {
+            indices[i] = i;
         }
-        Arrays.sort(states, (a,b) -> {
-            if(a.digitSum != b.digitSum) return a.digitSum - b.digitSum;
-            return a.num - b.num;
-        });
-        int r = 0;
-        for(int i = 0; i < states.length; i++) {
-            if(states[i].originalIndex == i) continue;
-            boolean redo = false;
-            if(states[states[i].originalIndex].originalIndex != states[i].originalIndex) {
-                redo = true;
+        Arrays.sort(indices, (a, b) -> {
+            int sumA = digitSum(nums[a]);
+            int sumB = digitSum(nums[b]);
+            if (sumA != sumB) {
+                return sumA - sumB;
             }
-            int temp = states[i].originalIndex;
-            states[i].originalIndex = states[states[i].originalIndex].originalIndex;
-            states[temp].originalIndex = temp;
-            r++;
-            if(redo) i--;
+            return nums[a] - nums[b];
+        });
+        boolean[] visited = new boolean[n];
+        int swaps = 0;
+        for (int i = 0; i < n; i++) {
+            if (visited[i] || indices[i] == i) {
+                continue;
+            }
+            int cycleSize = 0;
+            int j = i;
+            while (!visited[j]) {
+                visited[j] = true;
+                j = indices[j];
+                cycleSize++;
+            }
+            swaps += cycleSize - 1;
         }
-        return r;
+        return swaps;
+    }
+    private int digitSum(int num) {
+        int sum = 0;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
+        }
+        return sum;
     }
 }
