@@ -1,24 +1,36 @@
 class Solution {
     public int minOperations(String s) {
-        int n = s.length();
-        if(n == 1) return 0;
-        if(n == 2) return s.charAt(0) > s.charAt(1) ? -1 : 0;
-        char min = 'z', max = 'a', first = s.charAt(0), last = s.charAt(n - 1), prev = 'a';
-        int[] cnt = new int[26];
-        boolean flag = true;
-        for(char c : s.toCharArray()){
-            flag = prev > c ? false : flag;
-            min = min > c ? c : min;
-            max = max < c ? c : max;
-            prev = c;
-            cnt[c - 'a']++;
+        if(s.length() == 2){
+            if(s.charAt(0) <= s.charAt(1)) return 0;
+            return -1;
         }
-        if(flag) return 0;
-        if(first == min || last == max) return 1;
-        if(first == max && last == min){
-            if(cnt[max - 'a'] > 1 || cnt[min - 'a'] > 1) return 2;
+        if(s.length() == 1) return 0;
+        char sChar = s.charAt(0);
+        char bChar = s.charAt(0);
+        boolean isSorted = true;
+        char prevValue = s.charAt(0);
+        for(int i = 0; i < s.length(); i++){
+            if(isSorted){
+                if(!(s.charAt(i) >= prevValue)){
+                    isSorted = false;
+                } 
+                prevValue = s.charAt(i);
+            }
+            if(s.charAt(i) > bChar) bChar = s.charAt(i);
+            if(s.charAt(i) < sChar) sChar = s.charAt(i);
+        }
+        if(isSorted) return 0;
+        if(s.charAt(s.length() - 1) == sChar && s.charAt(0) == bChar){
+            int minCount = 0;
+            int maxCount = 0;
+            for(int i = 0; i < s.length(); i++){
+                if(s.charAt(i) == sChar) minCount++;
+                if(s.charAt(i) == bChar) maxCount++;
+            }
+            if(minCount > 1 || maxCount > 1) return 2;
             return 3;
         }
+        if(s.charAt(0) == sChar || s.charAt(s.length() - 1) == bChar) return 1;
         return 2;
     }
 }
