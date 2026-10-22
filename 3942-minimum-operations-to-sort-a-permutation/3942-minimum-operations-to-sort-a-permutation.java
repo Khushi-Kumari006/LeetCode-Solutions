@@ -1,32 +1,19 @@
 class Solution {
-    public int minOperations(int[] nums) {
-        int n = nums.length;
-        int zero = 0;
-        while (nums[zero] != 0) {
-            zero++;
-        }
-        boolean inc = true;
-        boolean dec = true;
+    public int minOperations(int[] A) {
+        int n = A.length;
+        int asc = 1, dsc = 1;
         for (int i = 1; i < n; i++) {
-            if (inc && nums[(zero + i) % n] != i) {
-                inc = false;
-            }
-            if (dec && nums[(zero - i + n) % n] != i) {
-                dec = false;
-            }
-            if (!inc && !dec) {
-                return -1;
-            }
+            if (A[i] == (A[i - 1] + 1) % n)
+                asc++;
+            if (A[i - 1] == (A[i] + 1) % n)
+                dsc++;
         }
-        int ans = Integer.MAX_VALUE;
-        if (inc) {
-            ans = Math.min(ans, zero);
-            ans = Math.min(ans, n - zero + 2);
-        }
-        if (dec) {
-            ans = Math.min(ans, zero + 2);
-            ans = Math.min(ans, n - zero);
-        }
-        return ans;
+        if (asc == n && A[0] == 0)
+            return 0;
+        if (asc == n)
+            return Math.min(n - A[0], A[0] + 2);
+        if (dsc == n)
+            return Math.min(n - A[n - 1], A[n - 1]) + 1;
+        return -1;
     }
 }
