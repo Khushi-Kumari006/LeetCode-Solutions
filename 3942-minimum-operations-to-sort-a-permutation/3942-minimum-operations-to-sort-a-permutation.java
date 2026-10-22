@@ -1,19 +1,48 @@
 class Solution {
-    public int minOperations(int[] A) {
-        int n = A.length;
-        int asc = 1, dsc = 1;
-        for (int i = 1; i < n; i++) {
-            if (A[i] == (A[i - 1] + 1) % n)
-                asc++;
-            if (A[i - 1] == (A[i] + 1) % n)
-                dsc++;
-        }
-        if (asc == n && A[0] == 0)
+    public int minOperations(int[] nums) {
+        int n=nums.length;
+        if(n==1){
             return 0;
-        if (asc == n)
-            return Math.min(n - A[0], A[0] + 2);
-        if (dsc == n)
-            return Math.min(n - A[n - 1], A[n - 1]) + 1;
-        return -1;
+        }
+        int ind=-1;
+        for(int i=0;i<n;i++){
+            if(nums[i]==0){
+                ind=i;
+                break;
+            }
+        }
+        boolean front=true;
+        boolean back=true;
+        for(int i=1;i<n;i++){
+            if(nums[(ind+i)%n]!=i){
+                front=false;
+                break;
+            }
+        }
+        for(int i=1;i<n;i++){
+            if(nums[(ind-i+n)%n]!=i){
+                back=false;
+                break;
+            }
+        }
+        if(!front&&!back){
+            return -1;
+        }
+        int res=Integer.MAX_VALUE;
+        if(front){
+            if(ind==0){
+                res=0;
+            }
+            else{
+                res=Math.min(res,ind);
+                res=Math.min(res,n-ind+2);
+            }
+        }
+        if(back){
+            res=Math.min(res,n-ind);
+            res=Math.min(res,ind+2);
+        }
+        return res;
+        
     }
 }
