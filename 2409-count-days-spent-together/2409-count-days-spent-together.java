@@ -1,12 +1,19 @@
 class Solution {
     public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
-        String first = arriveAlice.compareTo(arriveBob) > 0 ? arriveAlice : arriveBob; 
-        String last = leaveAlice.compareTo(leaveBob) < 0 ? leaveAlice : leaveBob;  
-        return Math.max(0, day(last) - day(first) + 1);
+        int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+        int aStart = toDay(arriveAlice, days);
+        int aEnd = toDay(leaveAlice, days);
+        int bStart = toDay(arriveBob, days);
+        int bEnd = toDay(leaveBob, days);
+        int start = Math.max(aStart, bStart);
+        int end = Math.min(aEnd, bEnd);
+        return start <= end ? end - start + 1 : 0;
     }
-    private static final int[] before = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30};
-    static { Arrays.parallelPrefix(before, Integer::sum); }  
-    private static int day(String mmdd) {  
-        return before[Integer.parseInt(mmdd.substring(0, 2)) - 1] + Integer.parseInt(mmdd.substring(3));
+    private int toDay(String s, int[] days) {
+        int m = (s.charAt(0) - '0') * 10 + (s.charAt(1) - '0');
+        int d = (s.charAt(3) - '0') * 10 + (s.charAt(4) - '0');
+        int res = d;
+        for (int i = 0; i < m - 1; i++) res += days[i];
+        return res;
     }
 }
