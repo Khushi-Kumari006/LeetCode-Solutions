@@ -1,17 +1,30 @@
 class Solution {
-    private int dayOfYear(String date) {
-        int[] daysBeforeMonth = {
-                0, 31, 59, 90, 120, 151,
-                181, 212, 243, 273, 304, 334
+    public int countDaysTogether(String arriveAlice, String leaveAlice,
+            String arriveBob, String leaveBob) {
+        String start = arriveAlice.compareTo(arriveBob) > 0
+                ? arriveAlice
+                : arriveBob;
+        String end = leaveAlice.compareTo(leaveBob) < 0
+                ? leaveAlice
+                : leaveBob;
+        if (start.compareTo(end) > 0) {
+            return 0;
+        }
+        int startDay = getDayOfYear(start);
+        int endDay = getDayOfYear(end);
+        return endDay - startDay + 1;
+    }
+    private int getDayOfYear(String date) {
+        int[] daysInMonth = {
+                31, 28, 31, 30, 31, 30,
+                31, 31, 30, 31, 30, 31
         };
         int month = Integer.parseInt(date.substring(0, 2));
         int day = Integer.parseInt(date.substring(3, 5));
-        return daysBeforeMonth[month - 1] + day;
-    }
-    public int countDaysTogether(String arriveAlice, String leaveAlice,
-            String arriveBob, String leaveBob) {
-        int start = Math.max(dayOfYear(arriveAlice), dayOfYear(arriveBob));
-        int end = Math.min(dayOfYear(leaveAlice), dayOfYear(leaveBob));
-        return Math.max(0, end - start + 1);
+        int totalDays = day;
+        for (int i = 0; i < month - 1; i++) {
+            totalDays += daysInMonth[i];
+        }
+        return totalDays;
     }
 }
