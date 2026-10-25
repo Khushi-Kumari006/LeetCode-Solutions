@@ -116,6 +116,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1200-minimum-absolute-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -828,6 +829,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0733-flood-fill](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
+| [1254-number-of-closed-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1109,6 +1111,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0128-longest-consecutive-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1138,6 +1141,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0785-is-graph-bipartite](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1159,6 +1163,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [0785-is-graph-bipartite](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
