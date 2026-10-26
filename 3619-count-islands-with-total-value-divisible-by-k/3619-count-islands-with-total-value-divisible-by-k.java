@@ -1,32 +1,28 @@
 class Solution {
-    static long dfs(int[][] g, boolean[][] vis, int row, int col){
-        int n = g.length;
-        int m = g[0].length;
-        if(row < 0 || row >= n || col >= m || col < 0){
-            return 0;
-        }
-        if(vis[row][col] || g[row][col] == 0){
-            return 0;
-        }
-        vis[row][col] = true;
-        long ans = g[row][col] + dfs(g, vis, row+1, col) + dfs(g, vis, row-1, col);
-        ans += dfs(g, vis, row, col+1) + dfs(g, vis, row, col-1);
-        return ans;
-    }
-    public int countIslands(int[][] g, int k) {
-        int n = g.length;
-        int m = g[0].length;
-        boolean[][] vis = new boolean[n][m];
-        int cnt = 0;
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<m; j++){
-                if(!vis[i][j] && (g[i][j] != 0)){
-                    if(dfs(g, vis, i, j)%k == 0){
-                        cnt++;
+    public int countIslands(int[][] grid, int k) {
+        int m = grid.length, n = grid[0].length, ans = 0;
+        int[] dirs = {1, 0, -1, 0, 1};  
+        int[] island = new int[m * n];
+        for (int i = 0; i < m; i++)
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 0) continue;
+                long total = grid[i][j];  
+                grid[i][j] = 0;
+                int size = 0;
+                island[size++] = i * n + j;
+                for (int h = 0; h < size; h++) {  
+                    int x = island[h] / n, y = island[h] % n;
+                    for (int d = 0; d < 4; d++) {
+                        int a = x + dirs[d], b = y + dirs[d + 1];
+                        if (a >= 0 && a < m && b >= 0 && b < n && grid[a][b] != 0) {
+                            total += grid[a][b];
+                            grid[a][b] = 0;  
+                            island[size++] = a * n + b;
+                        }
                     }
                 }
+                if (total % k == 0) ans++;
             }
-        }
-        return cnt;
+        return ans;
     }
 }
