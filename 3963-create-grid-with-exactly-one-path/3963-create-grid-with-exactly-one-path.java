@@ -1,24 +1,18 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        char [][] board=new char[m][n];
-        for(int i=0;i<n;i++){
-            board[0][i]='.';
-        }
-        for(int i=0;i<m;i++){
-            board[i][n-1]='.';
-        }
-
-        String[] result=new String[m];
-        for(int i=0;i<m;i++){
-            String res="";
-            for(int j=0;j<n;j++){
-                if(board[i][j]!='.'){
-                    board[i][j]='#';
-                }
-                res+=board[i][j];
-            }
-            result[i]=res;
-        }
-        return result;
+        char[][] rows = new char[2][n];
+        for (int i = 0; i < 2; i++)
+            for (int j = 0; j < n; j++)
+                if (i == 0 || j == n - 1)
+                    rows[i][j] = '.';
+                else
+                    rows[i][j] = '#';
+        String[] grid = new String[m];
+        grid[0] = new String(rows[0]);
+        if (m > 1)
+            grid[1] = new String(rows[1]);
+        for (int i = 2; i < m; i++)
+            grid[i] = grid[1];
+        return grid;
     }
 }
