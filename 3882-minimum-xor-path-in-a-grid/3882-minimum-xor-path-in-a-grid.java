@@ -2,28 +2,35 @@ class Solution {
     public int minCost(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        List<Set<Integer>> dp = new ArrayList<>();
-        for (int j = 0; j < n; j++) {
-            dp.add(new HashSet<>());
-        }
-        dp.get(0).add(grid[0][0]);
+        boolean[][][] dp = new boolean[m][n][1024];
+        dp[0][0][grid[0][0]] = true;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (i == 0 && j == 0) {
                     continue;
                 }
-                int value = grid[i][j];
-                Set<Integer> reachable = new HashSet<>(dp.get(j));
+                int val = grid[i][j];
+                if (i > 0) {
+                    for (int x = 0; x < 1024; x++) {
+                        if (dp[i - 1][j][x]) {
+                            dp[i][j][x ^ val] = true;
+                        }
+                    }
+                }
                 if (j > 0) {
-                    reachable.addAll(dp.get(j - 1));
+                    for (int x = 0; x < 1024; x++) {
+                        if (dp[i][j - 1][x]) {
+                            dp[i][j][x ^ val] = true;
+                        }
+                    }
                 }
-                Set<Integer> next = new HashSet<>();
-                for (int k : reachable) {
-                    next.add(k ^ value);
-                }
-                dp.set(j, next);
             }
         }
-        return Collections.min(dp.get(n - 1));
+        for (int x = 0; x < 1024; x++) {
+            if (dp[m - 1][n - 1][x]) {
+                return x;
+            }
+        }
+        return 0;
     }
 }
