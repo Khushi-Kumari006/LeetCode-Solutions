@@ -1,19 +1,25 @@
 class Solution {
-    public int minCost(int[][] A) {
-        int m = A.length, n = A[0].length;
-        return recurse(A, m - 1, n - 1, 0, new Integer[m+1][n+1][1024]);
-    }
-    int recurse(int[][] A, int r, int c, int xor, Integer[][][] dp) {
-        if (r < 0 || c < 0)
-            return Integer.MAX_VALUE;   
-        xor ^= A[r][c];
-        if (r == 0 && c == 0)
-            return xor;
-        if (dp[r][c][xor] != null)
-            return dp[r][c][xor];
-        return dp[r][c][xor] = Math.min(
-            recurse(A, r, c - 1, xor, dp), 
-            recurse(A, r - 1, c, xor, dp));
-
+    public int minCost(int[][] grid) {
+        int m = grid.length, n = grid[0].length;
+        boolean[][][] dp = new boolean[m][n][1024];
+        dp[0][0][grid[0][0]] = true;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i > 0) {
+                    for (int x = 0; x < 1024; x++) {
+                        if (dp[i - 1][j][x]) dp[i][j][x ^ grid[i][j]] = true;
+                    }
+                }
+                if (j > 0) {
+                    for (int x = 0; x < 1024; x++) {
+                        if (dp[i][j - 1][x]) dp[i][j][x ^ grid[i][j]] = true;
+                    }
+                }
+            }
+        }
+        for (int x = 0; x < 1024; x++) {
+            if (dp[m - 1][n - 1][x]) return x;
+        }
+        return 0;
     }
 }
