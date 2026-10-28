@@ -1,43 +1,29 @@
 class Solution {
-    class Pair{
-        int row;
-        int col;
-        int val;
-        Pair(int row,int col,int val){
-            this.row=row;
-            this.col=col;
-            this.val=val;
-        }
-    }
     public int minCost(int[][] grid) {
-        int n=grid.length,m=grid[0].length,min=Integer.MAX_VALUE;
-        Queue<Pair>queue=new LinkedList<>();
-        queue.offer(new Pair(0,0,grid[0][0]));
-        boolean[][][]visited=new boolean[n][m][1024];
-        visited[0][0][grid[0][0]]=false;
-        for(boolean[][]row1:visited){
-            for(boolean[]row:row1){
-                Arrays.fill(row,false);
-            }
+        int m = grid.length;
+        int n = grid[0].length;
+        List<Set<Integer>> dp = new ArrayList<>();
+        for (int j = 0; j < n; j++) {
+            dp.add(new HashSet<>());
         }
-        int[]allowedRow={0,1};
-        int[]allowedCol={1,0};
-        while(!queue.isEmpty()){
-            Pair cur=queue.poll();
-            if(cur.row==n-1&&cur.col==m-1){
-                if(cur.val<min)min=cur.val;
-                visited[cur.row][cur.col][cur.val]=false;
-                continue;
-            }
-            for(int i=0;i<2;i++){
-                int newRow=allowedRow[i]+cur.row;
-                int newCol=allowedCol[i]+cur.col;
-                if(newRow>=0&&newRow<n&&newCol>=0&&newCol<m&&!visited[newRow][newCol][cur.val^grid[newRow][newCol]]){
-                    queue.offer(new Pair(newRow,newCol, cur.val^grid[newRow][newCol]));
-                    visited[newRow][newCol][grid[newRow][newCol]^cur.val]=true;
+        dp.get(0).add(grid[0][0]);
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 && j == 0) {
+                    continue;
                 }
+                int value = grid[i][j];
+                Set<Integer> reachable = new HashSet<>(dp.get(j));
+                if (j > 0) {
+                    reachable.addAll(dp.get(j - 1));
+                }
+                Set<Integer> next = new HashSet<>();
+                for (int k : reachable) {
+                    next.add(k ^ value);
+                }
+                dp.set(j, next);
             }
         }
-        return min;
+        return Collections.min(dp.get(n - 1));
     }
 }
