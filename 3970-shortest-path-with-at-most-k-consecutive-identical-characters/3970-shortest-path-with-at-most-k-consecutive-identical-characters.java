@@ -1,73 +1,58 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.PriorityQueue;
-
-public class Solution {
-
-    private record Node(int ID, int weight) {}
-
-    private record Step(int ID, int weightFromStart, char label, int sameConsecutiveLabels) {}
-
-    private static final int NO_PATH_FOUND = -1;
-    private int startID;
-    private int goalID;
-
-    public int shortestPath(int numberOfNodes, int[][] edges, String labels, int maxSameConsecutiveLabels) {
-        goalID = numberOfNodes - 1;
-        List<Node>[] directedGraph = createDirectedGraph(numberOfNodes, edges);
-        return findShortestPath(directedGraph, labels, maxSameConsecutiveLabels);
-    }
-
-    private int findShortestPath(List<Node>[] directedGraph, String labels, int maxSameConsecutiveLabels) {
-        PriorityQueue<Step> minHeap = new PriorityQueue<>((x, y) -> x.weightFromStart - y.weightFromStart);
-        minHeap.add(new Step(startID, 0, labels.charAt(startID), 1));
-
-        int[][] minPathWeight = new int[goalID + 1][maxSameConsecutiveLabels + 1];
-        for (int i = 0; i < minPathWeight.length; ++i) {
-            Arrays.fill(minPathWeight[i], Integer.MAX_VALUE);
+class Solution {
+    public int shortestPath(int n, int[][] edges, String labels, int k) {
+        List<int[]>[] graph = new ArrayList[n];
+        //construct graph
+        for(int i=0;i<n;i++){
+            graph[i]=new ArrayList<>();
         }
-        minPathWeight[startID][1] = 0;
+        for(int [] e:edges){
+            graph[e[0]].add(new int[]{e[1],e[2]});
+        }
 
-        while (!minHeap.isEmpty()) {
-            Step current = minHeap.poll();
-            if (current.ID == goalID) {
-                return current.weightFromStart;
-            }
+        long maxi = Long.MAX_VALUE;
 
-            for (Node next : directedGraph[current.ID]) {
-                if (current.label == labels.charAt(next.ID) && current.sameConsecutiveLabels + 1 > maxSameConsecutiveLabels) {
-                    continue;
+        long [][] dist = new long[n][k+1];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dist[i],maxi);
+        }
+
+        PriorityQueue<long []>pq = new PriorityQueue<>(Comparator.comparingLong(a->a[0]));
+        dist[0][1]=0;
+        pq.offer(new long[]{0,0,1}); // cost, node , len
+
+        while(!pq.isEmpty()){
+            long[] cur = pq.poll();
+            long d = cur[0];
+            int u = (int) cur[1];
+            int r = (int)cur[2];
+
+            if(d!=dist[u][r]) continue;
+
+            for(int [] edge : graph[u]){
+                int v = edge[0];
+                int w = edge[1];
+
+                int next;
+                if(labels.charAt(v)==labels.charAt(u)){
+                    next = r+1;
+                }else{
+                    next =1;
                 }
 
-                int sameConsecutiveLabels = 1;
-                if (current.label == labels.charAt(next.ID)) {
-                    sameConsecutiveLabels += current.sameConsecutiveLabels;
-                }
+                if(next>k)continue;
 
-                if (current.weightFromStart + next.weight >= minPathWeight[next.ID][sameConsecutiveLabels]) {
-                    continue;
+                long nd = d+w;
+                if(nd<dist[v][next]){
+                    dist[v][next]=nd;
+                    pq.offer(new long[]{nd, v, next});
                 }
-
-                minPathWeight[next.ID][sameConsecutiveLabels] = current.weightFromStart + next.weight;
-                minHeap.add(new Step(next.ID, current.weightFromStart + next.weight, labels.charAt(next.ID), sameConsecutiveLabels));
             }
         }
-        return NO_PATH_FOUND;
-    }
 
-    private List<Node>[] createDirectedGraph(int numberOfNodes, int[][] edges) {
-        List<Node>[] directedGraph = new List[numberOfNodes];
-        for (int node = 0; node < numberOfNodes; ++node) {
-            directedGraph[node] = new ArrayList<>();
+        long res= maxi;
+        for(int i=1;i<=k;i++){
+            res= Math.min(res, dist[n-1][i]);
         }
-
-        for (int i = 0; i < edges.length; ++i) {
-            int from = edges[i][0];
-            int to = edges[i][1];
-            int weight = edges[i][2];
-            directedGraph[from].add(new Node(to, weight));
-        }
-        return directedGraph;
+        return res==(int)maxi ? -1:(int)res;
     }
 }
