@@ -302,6 +302,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Segment Tree
 |  |
@@ -900,6 +901,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1297,11 +1299,13 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
