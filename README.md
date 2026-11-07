@@ -156,6 +156,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1854-maximum-population-year](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -897,6 +898,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [1172-dinner-plate-stacks](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1425-constrained-subsequence-sum](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
+| [1882-process-tasks-using-servers](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
