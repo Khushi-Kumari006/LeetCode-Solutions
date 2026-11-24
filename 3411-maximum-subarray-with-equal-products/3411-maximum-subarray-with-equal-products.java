@@ -1,26 +1,31 @@
 class Solution {
-    public int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a % b);
-    }
-    public int lcm(int a, int b) {
-        return (a / gcd(a, b)) * b;
-    }
     public int maxLength(int[] nums) {
         int n = nums.length;
-        int maxL = 0;   
-        for (int i = 0; i < n; i++) {
-            int currGCD = nums[i];
-            int currLCM = nums[i];
-            int currPro = nums[i];
-            for (int j = i + 1; j < n; j++) {
-                currPro *= nums[j];
-                currGCD = gcd(currGCD, nums[j]);
-                currLCM = lcm(currLCM, nums[j]);
-                if (currPro == currLCM * currGCD) {
-                    maxL = Math.max(maxL, j - i + 1);
+        int maxLen = 1;
+        for(int i = 0; i < n; i++) {
+            int pro = nums[i];
+            int gcd = nums[i];
+            int lcm = nums[i];
+            for(int j = i + 1; j < n; j++) {
+                gcd = GCD(gcd, nums[j]);
+                pro *= nums[j];
+                lcm = LCM(lcm, nums[j]);
+                if(lcm * gcd == pro) {
+                    maxLen = Math.max(maxLen, j - i + 1);
                 }
             }
         }
-        return maxL;
+        return maxLen;
+    }
+    public static int LCM(int a, int b) {
+        return (a * b) / GCD(a, b);
+    }
+    static int GCD(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }
