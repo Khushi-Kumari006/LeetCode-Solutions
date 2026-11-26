@@ -1,12 +1,12 @@
 class Solution {
     public boolean canAliceWin(int n) {
         int remove = 10;
-        boolean aliceTurn = true;
+        boolean turn = true;
         while (n >= remove) {
             n -= remove;
             remove--;
-            aliceTurn = !aliceTurn;
+            turn = !turn;
         }
-        return !aliceTurn;
+        return !turn;
     }
 }
