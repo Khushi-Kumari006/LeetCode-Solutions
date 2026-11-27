@@ -223,6 +223,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3904-smallest-stable-index-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -735,6 +736,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3699-number-of-zigzag-arrays-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -840,6 +842,7 @@ LeetCode: [Khushi Kumari](https://leetcode.com/u/khushi_kumari005/)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Khushi-Kumari006/LeetCode-Solutions/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 ## Matrix
