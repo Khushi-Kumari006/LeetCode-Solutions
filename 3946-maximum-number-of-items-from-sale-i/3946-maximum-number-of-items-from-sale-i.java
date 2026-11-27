@@ -1,31 +1,44 @@
 class Solution {
-    int dp[][]=new int[1000][1501];
-    int free[];
-    int mini, n;
-    int solve(int i, int tot, int[][] items) {
-        if(i>=items.length) return tot/mini;
-        if(dp[i][tot]!=-1) return dp[i][tot];
-        int take=0;
-        if(tot>=items[i][1]) {
-            take=free[i]+solve(i+1, tot-items[i][1], items);
-        }
-
-        int skip=solve(i+1, tot, items);
-        return dp[i][tot]=Math.max(take, skip);
-    }
     public int maximumSaleItems(int[][] items, int budget) {
-        mini=Integer.MAX_VALUE;
-        n=items.length;
-        free=new int[n];
-        for(int i=0; i<1000; i++) {
-            java.util.Arrays.fill(dp[i], -1);
+        int n=items.length;
+        int max=0;
+        int min=Integer.MAX_VALUE;
+        for (int i[] : items) {
+            max=Math.max(max,i[0]);
+            min=Math.min(min,i[1]);
         }
-        for(int i=0; i<n; i++) {
-            mini=Math.min(mini, items[i][1]);
-            for(int j=0; j<n; j++) {
-                if(items[j][0]%items[i][0] == 0) free[i]++;
+        int count[]=new int[max+1];
+        for (int i[]:items) {
+            count[i[0]]++;
+        }
+        int val[]=new int[n];
+        for (int i=0;i<n;i++) {
+            int f=items[i][0];
+            int total=0;
+            for (int j=f;j<=max;j+=f) {
+                total+=count[j];
+            }
+            val[i]=total; 
+        }
+        int dp[]=new int[budget+1];
+        Arrays.fill(dp,-1);
+        dp[0]=0;
+        for (int i=0;i<n;i++) {
+            int cost=items[i][1];
+            int value=val[i];
+            for (int j=budget;j>=cost;j--) {
+                if (dp[j-cost]!=-1) {
+                    dp[j]=Math.max(dp[j],dp[j-cost]+value);
+                }
             }
         }
-        return solve(0, budget, items);
+        int maxtotal=0;
+        for (int j=0;j<=budget;j++) {
+            if (dp[j] != -1) {
+                int extra=(budget-j)/min;
+                maxtotal=Math.max(maxtotal, dp[j]+extra);
+            }
+        }
+        return maxtotal;
     }
 }
