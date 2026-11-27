@@ -1,26 +1,31 @@
 class Solution {
+    int dp[][]=new int[1000][1501];
+    int free[];
+    int mini, n;
+    int solve(int i, int tot, int[][] items) {
+        if(i>=items.length) return tot/mini;
+        if(dp[i][tot]!=-1) return dp[i][tot];
+        int take=0;
+        if(tot>=items[i][1]) {
+            take=free[i]+solve(i+1, tot-items[i][1], items);
+        }
 
+        int skip=solve(i+1, tot, items);
+        return dp[i][tot]=Math.max(take, skip);
+    }
     public int maximumSaleItems(int[][] items, int budget) {
-        int[] f = new int[budget + 1];
-        int mn = Integer.MAX_VALUE;
-        for (int[] item : items) {
-            int factor = item[0],
-                price = item[1];
-            mn = Math.min(mn, price);
-            int cnt = 0;
-            for (int[] other : items) {
-                if (other[0] % factor == 0) {
-                    cnt++;
-                }
-            }
-            for (int j = budget; j >= price; j--) {
-                f[j] = Math.max(f[j], f[j - price] + cnt);
+        mini=Integer.MAX_VALUE;
+        n=items.length;
+        free=new int[n];
+        for(int i=0; i<1000; i++) {
+            java.util.Arrays.fill(dp[i], -1);
+        }
+        for(int i=0; i<n; i++) {
+            mini=Math.min(mini, items[i][1]);
+            for(int j=0; j<n; j++) {
+                if(items[j][0]%items[i][0] == 0) free[i]++;
             }
         }
-        int ans = 0;
-        for (int j = 0; j <= budget; j++) {
-            ans = Math.max(ans, f[j] + (budget - j) / mn);
-        }
-        return ans;
+        return solve(0, budget, items);
     }
 }
